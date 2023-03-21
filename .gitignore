@@ -1,26 +1,7 @@
-# Python artifacts
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
+Globals.py
 
-# Output file
-output.txt
+.DS_Store
 
-# Unit test artifacts
-.coverage
-.coverage.
-htmlcov/
+__pycache__
 
-# Virtual environment
-venv/
-*.egg-info/
-
-# Jupyter Notebook
-.ipynb_checkpoints/
-
-# Miscellaneous
-*.swp
-*.swo
-*.swn
-*~
+images
